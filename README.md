@@ -1,1 +1,1 @@
-# RiggsOS
+# Password is '1234'
